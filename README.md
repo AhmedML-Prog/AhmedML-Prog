@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-card.svg" alt="Ahmed Saleh — AI Engineer in progress" width="100%" />
+<img src="./profile-card.svg" alt="Ahmed Saleh — AI Engineer" width="100%" />
 
 <br />
 
