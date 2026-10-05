@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" fill="none">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#F8F7F2"/><stop offset="1" stop-color="#EEEDE6"/></linearGradient>
+    <linearGradient id="panel" x1="80" y1="70" x2="450" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#172C35"/><stop offset="1" stop-color="#101D2A"/></linearGradient>
+    <linearGradient id="orb" x1="122" y1="111" x2="402" y2="391" gradientUnits="userSpaceOnUse"><stop stop-color="#C5B4FF"/><stop offset="1" stop-color="#8B72E8"/></linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#CAD0C8" fill-opacity=".45"/></pattern>
+    <clipPath id="round"><rect width="1200" height="500" rx="26"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="500" fill="url(#paper)"/><rect width="1200" height="500" fill="url(#dots)" opacity=".34"/>
+    <rect x="28" y="28" width="380" height="444" rx="20" fill="url(#panel)"/>
+    <circle cx="218" cy="228" r="143" stroke="#A998F2" stroke-opacity=".16" stroke-width="1.5"/><circle cx="218" cy="228" r="112" stroke="#A998F2" stroke-opacity=".25" stroke-width="1.5" stroke-dasharray="3 8"/>
+    <path d="M93 272C114 164 175 111 264 116C329 120 360 164 367 208" stroke="#F1A37A" stroke-width="2" stroke-linecap="round"/><path d="M89 241C130 315 213 354 293 326C326 315 351 292 365 261" stroke="#6CD4C4" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="218" cy="228" r="72" fill="url(#orb)"/><circle cx="218" cy="228" r="72" fill="url(#dots)" opacity=".45"/>
+    <path d="M187 220C187 203 201 189 218 189C235 189 249 203 249 220V242C249 259 235 273 218 273C201 273 187 259 187 242V220Z" stroke="#172C35" stroke-width="5"/><path d="M198 222H199M237 222H238" stroke="#172C35" stroke-width="7" stroke-linecap="round"/><path d="M207 244C213 250 223 250 229 244" stroke="#172C35" stroke-width="4" stroke-linecap="round"/><path d="M218 189V179M213 179H223" stroke="#172C35" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="93" cy="272" r="6" fill="#F1A37A"/><circle cx="367" cy="208" r="6" fill="#F1A37A"/><circle cx="89" cy="241" r="6" fill="#6CD4C4"/><circle cx="365" cy="261" r="6" fill="#6CD4C4"/>
+    <rect x="57" y="385" width="322" height="1" fill="#FFFFFF" fill-opacity=".15"/><text x="58" y="416" fill="#D6DFE2" font-family="monospace" font-size="11" letter-spacing="2">RETRIEVE / REASON / BUILD</text><text x="58" y="444" fill="#82969C" font-family="Arial, sans-serif" font-size="13">Curious by nature. Building with purpose.</text>
+    <text x="458" y="77" fill="#536A68" font-family="monospace" font-size="12" letter-spacing="2.4">HELLO, I’M</text>
+    <rect x="1015" y="52" width="145" height="32" rx="16" fill="#E1EEE8"/><circle cx="1034" cy="68" r="4" fill="#378C72"/><text x="1047" y="72" fill="#347360" font-family="monospace" font-size="10" letter-spacing="1">LEARN · BUILD · REPEAT</text>
+    <text x="454" y="145" fill="#172C35" font-family="Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.5">AhmedML-Prog</text><text x="458" y="179" fill="#725CB6" font-family="Arial, sans-serif" font-size="19" font-weight="700">AI Engineer in progress</text>
+    <text x="458" y="220" fill="#53616A" font-family="Arial, sans-serif" font-size="16">I’m learning to build useful AI systems, from the models</text><text x="458" y="245" fill="#53616A" font-family="Arial, sans-serif" font-size="16">that understand language to agents that take action.</text>
+    <rect x="458" y="278" width="702" height="1" fill="#D3D5CC"/><text x="458" y="309" fill="#77837F" font-family="monospace" font-size="10" letter-spacing="2">EXPLORING NOW</text>
+    <g font-family="Arial, sans-serif" font-size="13" font-weight="700"><rect x="458" y="325" width="126" height="34" rx="17" fill="#E8E2FA"/><text x="521" y="347" text-anchor="middle" fill="#6552A5">RAG</text><rect x="596" y="325" width="132" height="34" rx="17" fill="#DDF1EC"/><text x="662" y="347" text-anchor="middle" fill="#317664">LLMs</text><rect x="740" y="325" width="164" height="34" rx="17" fill="#F7E7DB"/><text x="822" y="347" text-anchor="middle" fill="#A7603E">AGENTIC AI</text><rect x="916" y="325" width="190" height="34" rx="17" fill="#E9ECEF"/><text x="1011" y="347" text-anchor="middle" fill="#52616A">ML · DEEP LEARNING</text></g>
+    <text x="458" y="395" fill="#77837F" font-family="monospace" font-size="10" letter-spacing="2">TOOLS I USE</text><text x="458" y="423" fill="#263B40" font-family="Arial, sans-serif" font-size="14" font-weight="700">Python · Java · C++ · JavaScript · C</text><text x="458" y="447" fill="#52616A" font-family="Arial, sans-serif" font-size="14">HTML · CSS · SQL · React</text>
+    <text x="458" y="478" fill="#82908A" font-family="monospace" font-size="10" letter-spacing="1.2">MACHINE LEARNING / DEEP LEARNING / SOFTWARE</text><circle cx="1147" cy="474" r="5" fill="#8B72E8"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="498" rx="25" stroke="#D4D7CE" stroke-width="2"/>
+</svg>
